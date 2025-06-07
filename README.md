@@ -1,3 +1,4 @@
+![](https://github.com/user-attachments/assets/91a06db5-ce81-46d9-820b-8082041b0dbd)
 👋 Hello, I'm Jagan!
 
 🎓 An aspiring VLSI Engineer with a passion for Digital Design, RTL coding, and FPGA development.  
